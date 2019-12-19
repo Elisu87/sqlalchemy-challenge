@@ -1,7 +1,7 @@
 # sqlalchemy-challenge
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
-Step 1 - Climate Analysis and Exploration
+## Step 1 - Climate Analysis and Exploration
 To begin, use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 
@@ -41,7 +41,7 @@ Use Pandas to print the summary statistics for the precipitation data.
 
 
 
-Station Analysis
+### Station Analysis
 
 
 Design a query to calculate the total number of stations.
@@ -75,7 +75,7 @@ Plot the results as a histogram with bins=12.
 
 
 
-Step 2 - Climate App
+## Step 2 - Climate App
 Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
 
 Use FLASK to create your routes.
