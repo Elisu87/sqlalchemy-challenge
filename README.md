@@ -20,15 +20,15 @@ Utilized Pandas for Climate Data Analysis and Matplotlib for plotting visualizat
 ## Visualizations 
 
 ### Bar Graph displaying 12 Month  Data Precipitation
-
+![](Images/monthly_precipitation.png)
 
 
 ### Histogram with Total Number of Stations
 
-
+![](Images/active_station_temp.png)
 
 ### Bar Chart displaying minimum, maximum and average temperature 
-
+![](Images/temp_avg.png)
 
 ## Climate App
 
