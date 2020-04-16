@@ -1,6 +1,6 @@
 # Hawai Weather Analysis 
 
-## Despcription 
+## Description 
 
 This project explores  Honolulu, Hawaii climate to understand its precipitation and temperature patterns and render information gathered on API Flask
 
